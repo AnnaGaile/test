@@ -15,7 +15,7 @@ elif b==2:
       print(" milti - 450 g,")
       print(" udens - 280 ml")
 else:
-      print("error")
+      print("error - error")
 print("")
 print("")
 c=int(input("Kuru picu tu velies izcept: Siera pica(1), Desu pica(2), Vistas pica(3)? - "))
